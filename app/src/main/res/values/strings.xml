@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyStorageHelper</string>
+    <string name="choose_file">Choose File</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="upload">Upload</string>
+    <string name="show_uploads">Show Uploads</string>
+</resources>
